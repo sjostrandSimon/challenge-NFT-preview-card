@@ -16,5 +16,4 @@ Compared to other challenges, i have now learned alot and i feel pretty good abo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://challenge-nft-preview-card.netlify.app/
